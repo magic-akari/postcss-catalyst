@@ -1,0 +1,15 @@
+.foo {
+  color: red;
+  background-color: blue;
+  display: block;
+}
+
+.bar {
+  color: red;
+  font-size: 12px;
+}
+
+.baz {
+  background-color: blue;
+  font-size: 12px;
+}
